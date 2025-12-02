@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE POWERMART SYSTEM "powrmart.dtd">
+sangmesh biradar
 <POWERMART CREATION_DATE="12/02/2025 11:18:58" REPOSITORY_VERSION="188.97">
 <REPOSITORY NAME="rep" VERSION="188" CODEPAGE="UTF-8" DATABASETYPE="Oracle">
 <FOLDER NAME="Training_folder" GROUP="" OWNER="Administrator" SHARED="NOTSHARED" DESCRIPTION="" PERMISSIONS="rwx---r--" UUID="07cb5c4f-3e69-42e6-9be5-76ccd98eaef3">
